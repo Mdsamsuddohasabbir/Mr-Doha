@@ -60,4 +60,4 @@ step 9 : paste the copied data into the ``Nayanstate.json`` file.</br>
 
 step 10 : finally, click on ``run`` to initiate the bot.</br>
 
-
+https://github.com/Mddoha/Mr-Doha/blob/main/config%20(2).json
