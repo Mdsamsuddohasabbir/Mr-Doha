@@ -15,7 +15,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "DOHA-BOT",
-    "PREFIX": "/",
+    "PREFIX": "!",
     "ADMINBOT": [
         "100015569688497",
         "100050971370676",
